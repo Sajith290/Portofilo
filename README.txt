@@ -24,6 +24,6 @@ Glassmorphism update: translucent frosted-glass panels, blue glass borders, lumi
 
 
 CV download
-The portfolio now includes Alvin_Steve_Saji_CV.pdf. The Download CV button downloads this file. Review the CV and fill in any missing personal details before using it for applications.
+The portfolio now includes Sajith_CV.pdf. The Download CV button downloads this file. Review the CV and fill in any missing personal details before using it for applications.
 
 Skills section updated with Devicon technology logos for HTML, CSS, JavaScript, Python and Java. SQL/MySQL is not included.
